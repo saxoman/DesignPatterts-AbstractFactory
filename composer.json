@@ -1,0 +1,17 @@
+{
+    "name": "sasa/abstract-factory",
+    "require": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sources\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "saxoman",
+            "email": "jovicsasajovic@gmail.com"
+        }
+    ]
+}
