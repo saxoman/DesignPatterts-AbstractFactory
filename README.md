@@ -1,4 +1,4 @@
-# DesignPatterts-AbstractFactoy
+# DesignPatterts-AbstractFactory
 AbstractFactoy Creational pattern
 To create series of related or dependent objects without specifying their concrete classes.
  * Usually the created classes all implement the same interface.
